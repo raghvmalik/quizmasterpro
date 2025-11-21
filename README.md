@@ -1,2 +1,2 @@
 # quizmasterpro
-A quiz app allows multiplayer and live leaderboard
+An extension of quizmaster-pro
